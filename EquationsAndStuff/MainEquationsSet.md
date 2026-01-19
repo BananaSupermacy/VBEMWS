@@ -1,4 +1,4 @@
-[Go back to README](README.md)
+[Go back to README](../README.md)
 </br>
 VBEMWS uses Maxwell Equations
 We start with 4 equations:
