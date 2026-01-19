@@ -35,7 +35,6 @@ $$
 which gives us two equations(one for E and one for B):
 </br>
 $$\nabla^2 {\vec {B}} = \mu _{0}\varepsilon _{0}{\frac {\partial^2 {\vec {B}}}{\partial^2 t}}$$
-$$\nabla^2 {\vec {E}} = \mu _{0}\varepsilon _{0}{\frac {\partial^2 {\vec {E}}}{\partial^2 t}}$$
-This leaves us two equations we have to merge now
 </br>
-We are going to do that using TE technique(
+$$\nabla^2 {\vec {E}} = \mu _{0}\varepsilon _{0}{\frac {\partial^2 {\vec {E}}}{\partial^2 t}}$$
+
